@@ -17,3 +17,11 @@ button {
     color: white;
     font-family: Salsa;
 }
+
+.passo{
+    display: none; 
+}
+
+.passo.ativo{
+    display: block;
+}
